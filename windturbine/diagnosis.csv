@@ -1,0 +1,9 @@
+Turbine_ID,Underperf_Time_pct,Probable_Cause,Loss_%
+T7,100.0,Pitch Fault / Icing,34.69
+T5,100.0,Pitch Fault / Icing,24.71
+T4,82.2,Gearbox Friction / Overheating,11.76
+T6,14.9,Sensor Drift / Other,7.75
+T3,0.7,Healthy,1.88
+T8,0.4,Healthy,0.79
+T2,0.6,Healthy,0.64
+T1,0.2,Healthy,-0.23
